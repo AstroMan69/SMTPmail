@@ -1,13 +1,13 @@
 import smtplib
 
-sender = 'sabretest7@gmail.com' #  will be replaced with my real email address
+sender = 'your email' #  will be replaced with my real email address
 
-password = 'Maz1keen!' #  will be replaced with my real password
+password = 'your password' #  will be replaced with my real password
 
-receivers = ['darren.pratt@sabrerail.com']
+receivers = ['sender']
 
-message = """From: Sabre Test <sabretest7@gmail.com>
-To: Darren Pratt <darren.pratt@sabrerail.com>
+message = """From: Your name <your email>
+To: receivers name <receivers email>
 MIME-Version: 1.0
 Content-Type: text/html
 Subject: Test E-Mail
